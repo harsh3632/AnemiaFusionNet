@@ -1,0 +1,708 @@
+District,State,Anemia_Prevalence,Geo_Risk
+Nicobars,Andaman & Nicobar Islands,38.3,Low
+North & Middle Andaman ,Andaman & Nicobar Islands,62.07,High
+South Andaman ,Andaman & Nicobar Islands,57.66,High
+Srikakulam ,Andhra Pradesh,62.59,High
+Vizianagaram ,Andhra Pradesh,64.04,High
+Visakhapatnam ,Andhra Pradesh,58.02,High
+East Godavari ,Andhra Pradesh,62.96,High
+West Godavari ,Andhra Pradesh,63.04,High
+Krishna ,Andhra Pradesh,60.32,High
+Guntur ,Andhra Pradesh,59.51,High
+Prakasam ,Andhra Pradesh,60.43,High
+Sri Potti Sriramulu Nello ,Andhra Pradesh,59.39,High
+Y.S.R. ,Andhra Pradesh,56.13,High
+Kurnool ,Andhra Pradesh,58.58,High
+Anantapur ,Andhra Pradesh,50.45,High
+Chittoor ,Andhra Pradesh,51.8,High
+Tawang ,Arunachal Pradesh,59.07,High
+West Kameng ,Arunachal Pradesh,37.36,Low
+East Kameng ,Arunachal Pradesh,26.21,Low
+Papum Pare ,Arunachal Pradesh,38.44,Low
+Upper Subansiri ,Arunachal Pradesh,36.69,Low
+Upper Siang ,Arunachal Pradesh,29.17,Low
+Changlang ,Arunachal Pradesh,57.21,High
+Lower Subansiri ,Arunachal Pradesh,40.46,Medium
+Dibang Valley ,Arunachal Pradesh,62.87,High
+Lower Dibang Valley ,Arunachal Pradesh,34.6,Low
+Anjaw ,Arunachal Pradesh,35.86,Low
+East Siang ,Arunachal Pradesh,35.2,Low
+Kra Daadi ,Arunachal Pradesh,22.6,Low
+Kurung Kumey ,Arunachal Pradesh,34.79,Low
+Lohit ,Arunachal Pradesh,47.21,Medium
+Longding ,Arunachal Pradesh,34.12,Low
+Namsai ,Arunachal Pradesh,58.56,High
+Siang ,Arunachal Pradesh,23.94,Low
+Tirap ,Arunachal Pradesh,31.99,Low
+West Siang ,Arunachal Pradesh,30.54,Low
+Kokrajhar ,Assam,59.45,High
+Goalpara ,Assam,64.88,High
+Barpeta ,Assam,64.83,High
+Morigaon ,Assam,64.24,High
+Lakhimpur ,Assam,65.42,High
+Dhemaji ,Assam,62.88,High
+Tinsukia ,Assam,72.84,High
+Dibrugarh ,Assam,70.79,High
+Golaghat ,Assam,77.15,High
+Dima Hasao ,Assam,60.49,High
+Cachar ,Assam,57.36,High
+Karimganj ,Assam,52.01,High
+Hailakandi ,Assam,61.36,High
+Bongaigaon ,Assam,70.63,High
+Chirang ,Assam,65.19,High
+Kamrup ,Assam,71.46,High
+Kamrup Metropolitan ,Assam,74.61,High
+Nalbari ,Assam,66.37,High
+Baksa ,Assam,73.56,High
+Darrang ,Assam,70.39,High
+Udalguri ,Assam,81.49,High
+Biswanath ,Assam,64.36,High
+Charaideo ,Assam,72.27,High
+Dhubri ,Assam,63.23,High
+Hojai ,Assam,56.34,High
+Jorhat ,Assam,71.83,High
+Karbi Anglong ,Assam,58.97,High
+Majuli ,Assam,67.81,High
+Nagaon ,Assam,61.03,High
+Sivasagar ,Assam,67.6,High
+Sonitpur ,Assam,63.62,High
+South Salmara Mancachar ,Assam,57.13,High
+West Karbi Anglong ,Assam,57.94,High
+Pashchim Champaran ,Bihar,50.58,High
+Purba Champaran ,Bihar,57.33,High
+Sheohar ,Bihar,61.64,High
+Sitamarhi ,Bihar,61.68,High
+Madhubani ,Bihar,61.44,High
+Supaul ,Bihar,60.7,High
+Araria ,Bihar,67.94,High
+Kishanganj ,Bihar,65.12,High
+Purnia ,Bihar,66.03,High
+Katihar ,Bihar,68.37,High
+Madhepura ,Bihar,65.72,High
+Saharsa ,Bihar,65.3,High
+Darbhanga ,Bihar,60.75,High
+Muzaffarpur ,Bihar,58.88,High
+Gopalganj ,Bihar,53.77,High
+Siwan ,Bihar,53.12,High
+Saran ,Bihar,62.8,High
+Vaishali ,Bihar,63.13,High
+Samastipur ,Bihar,60.51,High
+Begusarai ,Bihar,62.89,High
+Khagaria ,Bihar,59.46,High
+Bhagalpur ,Bihar,73.02,High
+Banka ,Bihar,65.86,High
+Munger ,Bihar,71.35,High
+Lakhisarai ,Bihar,72.55,High
+Sheikhpura ,Bihar,69.52,High
+Nalanda ,Bihar,71.04,High
+Patna ,Bihar,67.12,High
+Bhojpur ,Bihar,73.58,High
+Buxar ,Bihar,66.21,High
+Kaimur (Bhabua) ,Bihar,70.32,High
+Rohtas ,Bihar,64.9,High
+Aurangabad ,Bihar,60.45,High
+Gaya ,Bihar,64.33,High
+Nawada ,Bihar,70.41,High
+Jamui ,Bihar,75.16,High
+Jehanabad ,Bihar,68.05,High
+Arwal ,Bihar,66.85,High
+Chandigarh,Chandigarh,60.3,High
+Koriya ,Chhattisgarh,64.37,High
+Jashpur ,Chhattisgarh,61.47,High
+Raigarh ,Chhattisgarh,62.16,High
+Korba ,Chhattisgarh,66.43,High
+Janjgir - Champa ,Chhattisgarh,66.28,High
+Kabeerdham ,Chhattisgarh,43.64,Medium
+Rajnandgaon ,Chhattisgarh,58.27,High
+Mahasamund ,Chhattisgarh,63.03,High
+Dhamtari ,Chhattisgarh,59.57,High
+Uttar Bastar Kanker ,Chhattisgarh,65.21,High
+Narayanpur ,Chhattisgarh,71.97,High
+Bijapur ,Chhattisgarh,72.14,High
+Balod ,Chhattisgarh,56.38,High
+Baloda Bazar ,Chhattisgarh,61.24,High
+Balrampur ,Chhattisgarh,63.35,High
+Bastar ,Chhattisgarh,77.2,High
+Bemetara ,Chhattisgarh,47.01,Medium
+Bilaspur ,Chhattisgarh,58.5,High
+Dantewada ,Chhattisgarh,76.01,High
+Durg ,Chhattisgarh,51.66,High
+Gariyaband ,Chhattisgarh,64.64,High
+Kodagaon ,Chhattisgarh,79.74,High
+Mungeli ,Chhattisgarh,54.48,High
+Raipur ,Chhattisgarh,59.09,High
+Sukma ,Chhattisgarh,78.42,High
+Surajpur ,Chhattisgarh,60.74,High
+Surguja ,Chhattisgarh,58.32,High
+Diu ,Dadra and Nagar Haveli & Daman and Diu,50.27,High
+Daman ,Dadra and Nagar Haveli & Daman and Diu,60.8,High
+Dadra & Nagar Haveli ,Dadra and Nagar Haveli & Daman and Diu,64.41,High
+North Goa ,Goa,39.97,Low
+South Goa ,Goa,37.63,Low
+Kachchh ,Gujarat,57.49,High
+Banas Kantha ,Gujarat,59.98,High
+Patan ,Gujarat,59.76,High
+Mahesana ,Gujarat,69.27,High
+Gandhinagar ,Gujarat,68.81,High
+Porbandar ,Gujarat,47.6,Medium
+Amreli ,Gujarat,50.02,High
+Anand ,Gujarat,66.36,High
+Dohad ,Gujarat,75.08,High
+Narmada ,Gujarat,75.91,High
+Bharuch ,Gujarat,71.77,High
+The Dangs ,Gujarat,77.24,High
+Navsari ,Gujarat,68.71,High
+Valsad ,Gujarat,75.68,High
+Surat ,Gujarat,68.96,High
+Tapi ,Gujarat,77.38,High
+Ahmadabad ,Gujarat,63.7,High
+Aravali ,Gujarat,77.27,High
+Bhavnagar ,Gujarat,49.42,Medium
+Botad ,Gujarat,58.75,High
+Chhota Udaipur ,Gujarat,78.9,High
+Devbhumi Dwarka ,Gujarat,48.77,Medium
+Gir Somnath ,Gujarat,49.9,Medium
+Jamnagar ,Gujarat,50.22,High
+Junagadh ,Gujarat,58.77,High
+Kheda ,Gujarat,76.07,High
+Mahisagar ,Gujarat,72.5,High
+Morbi ,Gujarat,50.68,High
+Panch Mahals ,Gujarat,69.75,High
+Rajkot ,Gujarat,60.46,High
+Sabar Kantha ,Gujarat,67.31,High
+Surendranagar ,Gujarat,55.6,High
+Vadodara ,Gujarat,72.32,High
+Panchkula ,Haryana,57.06,High
+Ambala ,Haryana,46.06,Medium
+Yamunanagar ,Haryana,56.57,High
+Kurukshetra ,Haryana,57.08,High
+Kaithal ,Haryana,61.52,High
+Karnal ,Haryana,61.89,High
+Panipat ,Haryana,66.88,High
+Sonipat ,Haryana,53.28,High
+Jind ,Haryana,59.61,High
+Fatehabad ,Haryana,62.3,High
+Sirsa ,Haryana,61.89,High
+Hisar ,Haryana,63.76,High
+Rohtak ,Haryana,65.29,High
+Jhajjar ,Haryana,60.14,High
+Mahendragarh ,Haryana,61.22,High
+Rewari ,Haryana,61.84,High
+Gurgaon ,Haryana,67.48,High
+Mewat ,Haryana,60.57,High
+Faridabad ,Haryana,54.2,High
+Palwal ,Haryana,57.18,High
+Bhiwani ,Haryana,66.43,High
+Charkhi Dadri ,Haryana,72.64,High
+Chamba ,Himachal Pradesh,43.71,Medium
+Kangra ,Himachal Pradesh,63.39,High
+Lahul & Spiti ,Himachal Pradesh,82.05,High
+Kullu ,Himachal Pradesh,52.82,High
+Mandi ,Himachal Pradesh,48.85,Medium
+Hamirpur ,Himachal Pradesh,49.45,Medium
+Una ,Himachal Pradesh,60.75,High
+Bilaspur ,Himachal Pradesh,52.99,High
+Solan ,Himachal Pradesh,47.51,Medium
+Sirmaur ,Himachal Pradesh,50.13,High
+Shimla ,Himachal Pradesh,46.49,Medium
+Kinnaur ,Himachal Pradesh,51.72,High
+Kupwara ,Jammu & Kashmir,73.46,High
+Badgam ,Jammu & Kashmir,73.89,High
+Punch ,Jammu & Kashmir,54.07,High
+Rajouri ,Jammu & Kashmir,60.64,High
+Kathua ,Jammu & Kashmir,53.59,High
+Baramula ,Jammu & Kashmir,72.47,High
+Bandipore ,Jammu & Kashmir,73.72,High
+Srinagar ,Jammu & Kashmir,51.65,High
+Ganderbal ,Jammu & Kashmir,77.24,High
+Pulwama ,Jammu & Kashmir,73.15,High
+Shupiyan ,Jammu & Kashmir,63.9,High
+Anantnag ,Jammu & Kashmir,74.29,High
+Kulgam ,Jammu & Kashmir,76.96,High
+Doda ,Jammu & Kashmir,66.53,High
+Ramban ,Jammu & Kashmir,59.72,High
+Kishtwar ,Jammu & Kashmir,84.84,High
+Udhampur ,Jammu & Kashmir,56.46,High
+Reasi ,Jammu & Kashmir,62.88,High
+Jammu ,Jammu & Kashmir,66.63,High
+Samba ,Jammu & Kashmir,62.35,High
+Garhwa ,Jharkhand,62.69,High
+Chatra ,Jharkhand,55.96,High
+Kodarma ,Jharkhand,64.9,High
+Giridih ,Jharkhand,64.7,High
+Deoghar ,Jharkhand,70.23,High
+Godda ,Jharkhand,66.27,High
+Sahibganj ,Jharkhand,71.51,High
+Pakur ,Jharkhand,79.72,High
+Dhanbad ,Jharkhand,63.83,High
+Bokaro ,Jharkhand,68.84,High
+Lohardaga ,Jharkhand,61.7,High
+Purbi Singhbhum ,Jharkhand,64.37,High
+Palamu ,Jharkhand,61.02,High
+Latehar ,Jharkhand,63.58,High
+Hazaribagh ,Jharkhand,56.12,High
+Ramgarh ,Jharkhand,62.26,High
+Dumka ,Jharkhand,73.42,High
+Jamtara ,Jharkhand,77.65,High
+Ranchi ,Jharkhand,58.92,High
+Khunti ,Jharkhand,70.02,High
+Gumla ,Jharkhand,59.48,High
+Simdega ,Jharkhand,70.64,High
+Pashchimi Singhbhum ,Jharkhand,72.57,High
+Saraikela-Kharsawan ,Jharkhand,70.17,High
+Belgaum ,Karnataka,52.93,High
+Bagalkot ,Karnataka,47.98,Medium
+Bijapur ,Karnataka,52.9,High
+Bidar ,Karnataka,55.94,High
+Raichur ,Karnataka,60.36,High
+Koppal ,Karnataka,54.81,High
+Gadag ,Karnataka,50.47,High
+Dharwad ,Karnataka,52.14,High
+Uttara Kannada ,Karnataka,44.61,Medium
+Haveri ,Karnataka,50.79,High
+Bellary ,Karnataka,58.11,High
+Chitradurga ,Karnataka,44.58,Medium
+Davanagere ,Karnataka,51.72,High
+Shimoga ,Karnataka,41.89,Medium
+Udupi ,Karnataka,47.27,Medium
+Chikmagalur ,Karnataka,40.79,Medium
+Tumkur ,Karnataka,49.28,Medium
+Bangalore ,Karnataka,35.54,Low
+Mandya ,Karnataka,47.02,Medium
+Hassan ,Karnataka,42.22,Medium
+Dakshina Kannada ,Karnataka,38.75,Low
+Kodagu ,Karnataka,39.85,Low
+Mysore ,Karnataka,47.97,Medium
+Chamarajanagar ,Karnataka,46.32,Medium
+Gulbarga ,Karnataka,56.03,High
+Yadgir ,Karnataka,57.3,High
+Kolar ,Karnataka,43.6,Medium
+Chikkaballapura ,Karnataka,45.53,Medium
+Bangalore Rural ,Karnataka,44.24,Medium
+Ramanagara ,Karnataka,45.46,Medium
+Kasaragod ,Kerala,35.35,Low
+Kannur ,Kerala,39.72,Low
+Wayanad ,Kerala,26.94,Low
+Kozhikode ,Kerala,29.83,Low
+Malappuram ,Kerala,34.74,Low
+Palakkad ,Kerala,49.64,Medium
+Thrissur ,Kerala,44.44,Medium
+Ernakulam ,Kerala,31.65,Low
+Idukki ,Kerala,32.02,Low
+Kottayam ,Kerala,38.74,Low
+Alappuzha ,Kerala,31.88,Low
+Pathanamthitta ,Kerala,36.41,Low
+Kollam ,Kerala,35.96,Low
+Thiruvananthapuram ,Kerala,32.98,Low
+Leh(Ladakh) ,Ladakh,93.5,High
+Kargil ,Ladakh,92.01,High
+Lakshadweep , Lakshadweep ,25.8,Low
+Sheopur ,Madhya Pradesh,64.91,High
+Morena ,Madhya Pradesh,67.45,High
+Bhind ,Madhya Pradesh,69.86,High
+Gwalior ,Madhya Pradesh,62.5,High
+Datia ,Madhya Pradesh,58.63,High
+Shivpuri ,Madhya Pradesh,51.05,High
+Tikamgarh ,Madhya Pradesh,49.05,Medium
+Chhatarpur ,Madhya Pradesh,63.5,High
+Panna ,Madhya Pradesh,59.04,High
+Sagar ,Madhya Pradesh,49.76,Medium
+Damoh ,Madhya Pradesh,48.07,Medium
+Satna ,Madhya Pradesh,57.34,High
+Rewa ,Madhya Pradesh,61.66,High
+Umaria ,Madhya Pradesh,51.46,High
+Neemuch ,Madhya Pradesh,50.29,High
+Mandsaur ,Madhya Pradesh,56.65,High
+Ratlam ,Madhya Pradesh,59.5,High
+Ujjain ,Madhya Pradesh,54.54,High
+Dewas ,Madhya Pradesh,51.31,High
+Dhar ,Madhya Pradesh,50.24,High
+Indore ,Madhya Pradesh,48.05,Medium
+Khargone (West Nimar) ,Madhya Pradesh,50.1,High
+Barwani ,Madhya Pradesh,58.38,High
+Rajgarh ,Madhya Pradesh,52.33,High
+Vidisha ,Madhya Pradesh,38.5,Low
+Bhopal ,Madhya Pradesh,53.48,High
+Sehore ,Madhya Pradesh,45.34,Medium
+Raisen ,Madhya Pradesh,56.86,High
+Betul ,Madhya Pradesh,56.21,High
+Harda ,Madhya Pradesh,62.62,High
+Hoshangabad ,Madhya Pradesh,51.88,High
+Katni ,Madhya Pradesh,58.65,High
+Jabalpur ,Madhya Pradesh,48.89,Medium
+Narsimhapur ,Madhya Pradesh,46.85,Medium
+Dindori ,Madhya Pradesh,65.16,High
+Mandla ,Madhya Pradesh,60.62,High
+Chhindwara ,Madhya Pradesh,41.67,Medium
+Seoni ,Madhya Pradesh,59.93,High
+Balaghat ,Madhya Pradesh,60.57,High
+Guna ,Madhya Pradesh,49.78,Medium
+Ashoknagar ,Madhya Pradesh,46.13,Medium
+Shahdol ,Madhya Pradesh,56.41,High
+Anuppur ,Madhya Pradesh,52.56,High
+Sidhi ,Madhya Pradesh,55.66,High
+Singrauli ,Madhya Pradesh,54.11,High
+Jhabua ,Madhya Pradesh,58.81,High
+Alirajpur ,Madhya Pradesh,60.46,High
+Khandwa (East Nimar) ,Madhya Pradesh,64.83,High
+Burhanpur ,Madhya Pradesh,57.33,High
+Agar Malwa ,Madhya Pradesh,59.2,High
+Shajapur ,Madhya Pradesh,45.83,Medium
+Nandurbar ,Maharastra,64.23,High
+Dhule ,Maharastra,61.24,High
+Jalgaon ,Maharastra,65.19,High
+Buldana ,Maharastra,57.84,High
+Akola ,Maharastra,52.58,High
+Washim ,Maharastra,56.35,High
+Amravati ,Maharastra,53.38,High
+Wardha ,Maharastra,59.99,High
+Nagpur ,Maharastra,53.6,High
+Bhandara ,Maharastra,65.33,High
+Gondiya ,Maharastra,60.42,High
+Gadchiroli ,Maharastra,66.16,High
+Chandrapur ,Maharastra,55.5,High
+Yavatmal ,Maharastra,58.38,High
+Nanded ,Maharastra,57.34,High
+Hingoli ,Maharastra,51.26,High
+Parbhani ,Maharastra,58.84,High
+Jalna ,Maharastra,58.17,High
+Aurangabad ,Maharastra,52.38,High
+Nashik ,Maharastra,56.19,High
+Mumbai Suburban ,Maharastra,49.97,Medium
+Mumbai ,Maharastra,45.92,Medium
+Raigarh ,Maharastra,54.23,High
+Pune ,Maharastra,51.93,High
+Ahmadnagar ,Maharastra,50.3,High
+Bid ,Maharastra,50.82,High
+Latur ,Maharastra,50.71,High
+Osmanabad ,Maharastra,49.14,Medium
+Solapur ,Maharastra,54.52,High
+Satara ,Maharastra,49.58,Medium
+Ratnagiri ,Maharastra,43.44,Medium
+Sindhudurg ,Maharastra,41.24,Medium
+Kolhapur ,Maharastra,50.05,High
+Sangli ,Maharastra,47.45,Medium
+Palghar ,Maharastra,56.93,High
+Thane ,Maharastra,58.82,High
+Senapati ,Manipur,27.35,Low
+Tamenglong ,Manipur,27.26,Low
+Churachandpur ,Manipur,31.97,Low
+Bishnupur ,Manipur,35.75,Low
+Thoubal ,Manipur,24.16,Low
+Imphal West ,Manipur,26.8,Low
+Imphal East ,Manipur,35.89,Low
+Ukhrul ,Manipur,21.92,Low
+Chandel ,Manipur,27.27,Low
+South Garo Hills ,Meghalaya,56.24,High
+Ribhoi ,Meghalaya,62.36,High
+East Khasi Hills ,Meghalaya,48.19,Medium
+East Garo Hills ,Meghalaya,50.85,High
+East Jantia Hills ,Meghalaya,43.9,Medium
+North Garo Hills ,Meghalaya,58.36,High
+South West Garo Hills ,Meghalaya,62.48,High
+South West Khasi Hills ,Meghalaya,58.89,High
+West Garo Hills ,Meghalaya,55.34,High
+West Jaintia Hills ,Meghalaya,55.92,High
+West Khasi Hills ,Meghalaya,51.8,High
+Chandel ,Mizoram,27.27,Low
+Mamit ,Mizoram,34.89,Low
+Kolasib ,Mizoram,37.66,Low
+Aizawl ,Mizoram,31.68,Low
+Champhai ,Mizoram,25.74,Low
+Serchhip ,Mizoram,32.12,Low
+Lunglei ,Mizoram,34.85,Low
+Lawngtlai ,Mizoram,48.52,Medium
+Mon ,Nagaland,30.23,Low
+Mokokchung ,Nagaland,25.04,Low
+Zunheboto ,Nagaland,31.12,Low
+Wokha ,Nagaland,30.92,Low
+Dimapur ,Nagaland,34.74,Low
+Phek ,Nagaland,29.95,Low
+Tuensang ,Nagaland,28.77,Low
+Longleng ,Nagaland,34.57,Low
+Kiphire ,Nagaland,31.39,Low
+Kohima ,Nagaland,14.91,Low
+Peren ,Nagaland,29.72,Low
+Central ,NCT of Delhi,44.62,Medium
+East ,NCT of Delhi,42.47,Medium
+New Delhi ,NCT of Delhi,55.96,High
+North ,NCT of Delhi,47.19,Medium
+North East ,NCT of Delhi,45.87,Medium
+North West ,NCT of Delhi,51.38,High
+Shahdara ,NCT of Delhi,49.22,Medium
+South ,NCT of Delhi,46.23,Medium
+South East ,NCT of Delhi,47.93,Medium
+South West ,NCT of Delhi,56.35,High
+West ,NCT of Delhi,57.15,High
+Bargarh ,Odisha,62.61,High
+Jharsuguda ,Odisha,67.82,High
+Sambalpur ,Odisha,66.67,High
+Debagarh ,Odisha,72.23,High
+Sundargarh ,Odisha,69.77,High
+Kendujhar ,Odisha,69.22,High
+Mayurbhanj ,Odisha,72.15,High
+Baleshwar ,Odisha,61.76,High
+Bhadrak ,Odisha,64.0,High
+Kendrapara ,Odisha,58.82,High
+Jagatsinghapur ,Odisha,59.82,High
+Cuttack ,Odisha,64.5,High
+Jajapur ,Odisha,63.39,High
+Dhenkanal ,Odisha,65.93,High
+Anugul ,Odisha,75.78,High
+Nayagarh ,Odisha,62.53,High
+Khordha ,Odisha,68.09,High
+Puri ,Odisha,63.34,High
+Ganjam ,Odisha,56.72,High
+Gajapati ,Odisha,66.12,High
+Kandhamal ,Odisha,48.91,Medium
+Baudh ,Odisha,54.13,High
+Subarnapur ,Odisha,58.79,High
+Balangir ,Odisha,59.35,High
+Nuapada ,Odisha,64.02,High
+Kalahandi ,Odisha,64.23,High
+Rayagada ,Odisha,69.14,High
+Nabarangapur ,Odisha,69.25,High
+Koraput ,Odisha,58.23,High
+Malkangiri ,Odisha,71.92,High
+Yanam ,Puducherry,43.06,Medium
+Puducherry ,Puducherry,56.78,High
+Mahe ,Puducherry,38.39,Low
+Karaikal ,Puducherry,54.44,High
+Kapurthala ,Punjab,54.53,High
+Jalandhar ,Punjab,57.04,High
+Hoshiarpur ,Punjab,54.1,High
+Shahid Bhagat Singh Nagar ,Punjab,49.78,Medium
+Fatehgarh Sahib ,Punjab,65.08,High
+Ludhiana ,Punjab,64.34,High
+Moga ,Punjab,54.38,High
+Muktsar ,Punjab,60.95,High
+Faridkot ,Punjab,63.22,High
+Bathinda ,Punjab,59.68,High
+Mansa ,Punjab,60.41,High
+Patiala ,Punjab,65.32,High
+Amritsar ,Punjab,52.07,High
+Tarn Taran ,Punjab,61.73,High
+Rupnagar ,Punjab,64.49,High
+Sahibzada Ajit Singh Nagar ,Punjab,59.45,High
+Sangrur ,Punjab,52.63,High
+Barnala ,Punjab,55.24,High
+Fazilka ,Punjab,66.9,High
+Firozpur ,Punjab,61.45,High
+Gurdaspur ,Punjab,55.2,High
+Pathankot ,Punjab,54.95,High
+Ganganagar ,Rajasthan,58.97,High
+Hanumangarh ,Rajasthan,60.27,High
+Bikaner ,Rajasthan,58.92,High
+Churu ,Rajasthan,52.93,High
+Jhunjhunun ,Rajasthan,55.36,High
+Alwar ,Rajasthan,53.15,High
+Bharatpur ,Rajasthan,60.78,High
+Dhaulpur ,Rajasthan,68.48,High
+Karauli ,Rajasthan,61.48,High
+Sawai Madhopur ,Rajasthan,57.48,High
+Dausa ,Rajasthan,60.32,High
+Jaipur ,Rajasthan,54.14,High
+Sikar ,Rajasthan,43.96,Medium
+Nagaur ,Rajasthan,45.27,Medium
+Jodhpur ,Rajasthan,43.35,Medium
+Jaisalmer ,Rajasthan,44.44,Medium
+Barmer ,Rajasthan,49.4,Medium
+Jalor ,Rajasthan,59.87,High
+Sirohi ,Rajasthan,64.03,High
+Pali ,Rajasthan,58.79,High
+Ajmer ,Rajasthan,52.74,High
+Tonk ,Rajasthan,52.84,High
+Bundi ,Rajasthan,55.85,High
+Bhilwara ,Rajasthan,50.39,High
+Rajsamand ,Rajasthan,58.37,High
+Dungarpur ,Rajasthan,72.55,High
+Banswara ,Rajasthan,52.82,High
+Chittaurgarh ,Rajasthan,45.14,Medium
+Kota ,Rajasthan,51.75,High
+Baran ,Rajasthan,60.07,High
+Jhalawar ,Rajasthan,51.52,High
+Udaipur ,Rajasthan,60.49,High
+Pratapgarh ,Rajasthan,53.14,High
+North  District ,Sikkim,36.65,Low
+West District ,Sikkim,42.65,Medium
+South District ,Sikkim,39.81,Low
+East District ,Sikkim,43.34,Medium
+Thiruvallur ,Tamil Nadu,56.83,High
+Chennai ,Tamil Nadu,50.28,High
+Kancheepuram ,Tamil Nadu,56.97,High
+Vellore ,Tamil Nadu,50.59,High
+Tiruvannamalai ,Tamil Nadu,56.55,High
+Viluppuram ,Tamil Nadu,62.53,High
+Salem ,Tamil Nadu,46.33,Medium
+Namakkal ,Tamil Nadu,51.93,High
+Erode ,Tamil Nadu,55.43,High
+The Nilgiris ,Tamil Nadu,44.17,Medium
+Dindigul ,Tamil Nadu,42.61,Medium
+Karur ,Tamil Nadu,65.04,High
+Tiruchirappalli ,Tamil Nadu,62.37,High
+Perambalur ,Tamil Nadu,66.06,High
+Ariyalur ,Tamil Nadu,62.42,High
+Cuddalore ,Tamil Nadu,58.57,High
+Nagapattinam ,Tamil Nadu,62.64,High
+Thiruvarur ,Tamil Nadu,58.2,High
+Thanjavur ,Tamil Nadu,59.04,High
+Pudukkottai ,Tamil Nadu,62.53,High
+Sivaganga ,Tamil Nadu,51.52,High
+Madurai ,Tamil Nadu,47.99,Medium
+Theni ,Tamil Nadu,41.16,Medium
+Virudhunagar ,Tamil Nadu,56.88,High
+Ramanathapuram ,Tamil Nadu,53.55,High
+Thoothukkudi ,Tamil Nadu,55.93,High
+Tirunelveli ,Tamil Nadu,51.02,High
+Kanniyakumari ,Tamil Nadu,45.55,Medium
+Dharmapuri ,Tamil Nadu,42.5,Medium
+Krishnagiri ,Tamil Nadu,43.96,Medium
+Coimbatore ,Tamil Nadu,48.85,Medium
+Tiruppur ,Tamil Nadu,55.21,High
+Adilabad ,Telangana,61.1,High
+Bhadradri Kothagudem ,Telangana,68.71,High
+Hyderabad ,Telangana,52.65,High
+Jagitial ,Telangana,56.32,High
+Jangoan ,Telangana,57.45,High
+Jayashankar Bhupalapally ,Telangana,65.88,High
+Jogulamba Gadwal ,Telangana,64.55,High
+Kamareddy ,Telangana,58.93,High
+Karimnagar ,Telangana,61.07,High
+Khammam ,Telangana,62.36,High
+Komaram Bheem Asifabad ,Telangana,67.28,High
+Mahabubabad ,Telangana,62.76,High
+Mahabubnagar ,Telangana,54.69,High
+Mancherial ,Telangana,56.67,High
+Medak ,Telangana,54.44,High
+Medchal-Malkajgiri ,Telangana,56.77,High
+Nagarkurnool ,Telangana,54.02,High
+Nalgonda ,Telangana,54.34,High
+Nirmal ,Telangana,57.69,High
+Nizamabad ,Telangana,56.96,High
+Peddapalli ,Telangana,64.56,High
+Rajanna Sircilla ,Telangana,55.99,High
+Ranga Reddy ,Telangana,53.24,High
+Sangareddy ,Telangana,48.34,Medium
+Siddipet ,Telangana,56.69,High
+Suryapet ,Telangana,57.48,High
+Vikarabad ,Telangana,61.0,High
+Wanaparthy ,Telangana,58.67,High
+Warangal Rural ,Telangana,59.32,High
+Warangal Urban ,Telangana,57.85,High
+Yadadri Bhuvanagiri ,Telangana,53.78,High
+Dhalai ,Tripura,69.99,High
+Gomati ,Tripura,62.25,High
+Khowai ,Tripura,63.73,High
+North Tripura ,Tripura,69.25,High
+Sepahijala ,Tripura,69.39,High
+South Tripura ,Tripura,66.51,High
+Unakoti ,Tripura,67.86,High
+West Tripura ,Tripura,67.25,High
+Saharanpur ,Uttar Pradesh,41.38,Medium
+Bijnor ,Uttar Pradesh,45.96,Medium
+Rampur ,Uttar Pradesh,55.44,High
+Jyotiba Phule Nagar ,Uttar Pradesh,47.56,Medium
+Meerut ,Uttar Pradesh,45.46,Medium
+Baghpat ,Uttar Pradesh,53.3,High
+Gautam Buddha Nagar ,Uttar Pradesh,59.43,High
+Bulandshahr ,Uttar Pradesh,52.01,High
+Aligarh ,Uttar Pradesh,56.51,High
+Mahamaya Nagar ,Uttar Pradesh,58.24,High
+Mathura ,Uttar Pradesh,63.01,High
+Agra ,Uttar Pradesh,59.44,High
+Firozabad ,Uttar Pradesh,57.08,High
+Mainpuri ,Uttar Pradesh,57.78,High
+Bareilly ,Uttar Pradesh,60.8,High
+Pilibhit ,Uttar Pradesh,52.0,High
+Shahjahanpur ,Uttar Pradesh,60.32,High
+Kheri ,Uttar Pradesh,52.95,High
+Sitapur ,Uttar Pradesh,55.29,High
+Hardoi ,Uttar Pradesh,59.67,High
+Unnao ,Uttar Pradesh,48.92,Medium
+Lucknow ,Uttar Pradesh,55.76,High
+Farrukhabad ,Uttar Pradesh,56.94,High
+Kannauj ,Uttar Pradesh,65.21,High
+Etawah ,Uttar Pradesh,57.38,High
+Auraiya ,Uttar Pradesh,39.13,Low
+Kanpur Dehat ,Uttar Pradesh,54.85,High
+Kanpur Nagar ,Uttar Pradesh,57.03,High
+Jalaun ,Uttar Pradesh,44.23,Medium
+Jhansi ,Uttar Pradesh,41.33,Medium
+Lalitpur ,Uttar Pradesh,38.07,Low
+Hamirpur ,Uttar Pradesh,46.11,Medium
+Mahoba ,Uttar Pradesh,49.37,Medium
+Banda ,Uttar Pradesh,52.22,High
+Chitrakoot ,Uttar Pradesh,46.57,Medium
+Fatehpur ,Uttar Pradesh,62.98,High
+Pratapgarh ,Uttar Pradesh,48.9,Medium
+Kaushambi ,Uttar Pradesh,54.38,High
+Allahabad ,Uttar Pradesh,46.38,Medium
+Bara Banki ,Uttar Pradesh,55.27,High
+Faizabad ,Uttar Pradesh,52.31,High
+Ambedkar Nagar ,Uttar Pradesh,52.7,High
+Bahraich ,Uttar Pradesh,48.81,Medium
+Shrawasti ,Uttar Pradesh,44.41,Medium
+Balrampur ,Uttar Pradesh,53.7,High
+Gonda ,Uttar Pradesh,49.31,Medium
+Siddharthnagar ,Uttar Pradesh,51.17,High
+Basti ,Uttar Pradesh,39.9,Low
+Sant Kabir Nagar ,Uttar Pradesh,43.45,Medium
+Mahrajganj ,Uttar Pradesh,47.07,Medium
+Gorakhpur ,Uttar Pradesh,52.89,High
+Kushinagar ,Uttar Pradesh,42.29,Medium
+Deoria ,Uttar Pradesh,33.83,Low
+Azamgarh ,Uttar Pradesh,54.29,High
+Mau ,Uttar Pradesh,44.28,Medium
+Ballia ,Uttar Pradesh,52.24,High
+Jaunpur ,Uttar Pradesh,34.0,Low
+Ghazipur ,Uttar Pradesh,45.68,Medium
+Chandauli ,Uttar Pradesh,48.69,Medium
+Varanasi ,Uttar Pradesh,37.6,Low
+Sant Ravidas Nagar (Bhadohi) ,Uttar Pradesh,43.79,Medium
+Mirzapur ,Uttar Pradesh,42.05,Medium
+Sonbhadra ,Uttar Pradesh,44.54,Medium
+Etah ,Uttar Pradesh,55.41,High
+Kanshiram Nagar ,Uttar Pradesh,64.59,High
+Amethi ,Uttar Pradesh,46.12,Medium
+Budaun ,Uttar Pradesh,55.31,High
+Ghaziabad ,Uttar Pradesh,55.15,High
+Hapur ,Uttar Pradesh,50.59,High
+Moradabad ,Uttar Pradesh,44.93,Medium
+Muzaffarnagar ,Uttar Pradesh,45.99,Medium
+Rae Bareli ,Uttar Pradesh,48.2,Medium
+Sambhal ,Uttar Pradesh,51.25,High
+Shamli ,Uttar Pradesh,41.68,Medium
+Sultanpur ,Uttar Pradesh,50.2,High
+Uttarkashi ,Uttarakhand,60.94,High
+Chamoli ,Uttarakhand,41.75,Medium
+Rudraprayag ,Uttarakhand,40.55,Medium
+Tehri Garhwal ,Uttarakhand,42.22,Medium
+Dehradun ,Uttarakhand,47.85,Medium
+Garhwal ,Uttarakhand,40.3,Medium
+Pithoragarh ,Uttarakhand,25.53,Low
+Bageshwar ,Uttarakhand,27.76,Low
+Almora ,Uttarakhand,33.44,Low
+Champawat ,Uttarakhand,32.5,Low
+Nainital ,Uttarakhand,34.53,Low
+Udham Singh Nagar ,Uttarakhand,51.01,High
+Hardwar ,Uttarakhand,43.77,Medium
+Darjiling ,West Bengal,59.17,High
+Jalpaiguri ,West Bengal,71.42,High
+Koch Bihar ,West Bengal,74.76,High
+Uttar Dinajpur ,West Bengal,72.42,High
+Dakshin Dinajpur ,West Bengal,82.04,High
+Maldah ,West Bengal,73.6,High
+Murshidabad ,West Bengal,77.57,High
+Birbhum ,West Bengal,77.71,High
+Nadia ,West Bengal,73.35,High
+North Twenty Four Pargana ,West Bengal,65.27,High
+Hugli ,West Bengal,75.06,High
+Bankura ,West Bengal,77.04,High
+Puruliya ,West Bengal,76.7,High
+Haora ,West Bengal,65.25,High
+Kolkata ,West Bengal,58.18,High
+South Twenty Four Pargana ,West Bengal,61.62,High
+Paschim Medinipur ,West Bengal,81.49,High
+Purba Medinipur ,West Bengal,70.39,High
+Paschim Barddhaman ,West Bengal,65.81,High
+Purba Barddhaman ,West Bengal,77.86,High
